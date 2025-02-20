@@ -61,7 +61,7 @@ document.querySelector('button[type="submit"]').addEventListener('click', functi
 }, false);
 
 function showAndHideErrorMessage() {
-  const errorMessage = document.querySelector('.error');
+  const errMessage = document.querySelector('.error');
   errorMessage.style.display = 'block';
   scroll(0, 0);
   hideMessageAfterTimeout(errorMessage);
