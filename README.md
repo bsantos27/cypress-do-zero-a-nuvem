@@ -1,4 +1,4 @@
-# 🌲 Cypress, do Zero à Nuvem ☁️
+# Cypress, do Zero à Nuvem ☁️
 
 👋 Seja bem-vindo(a)!
 
